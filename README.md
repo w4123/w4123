@@ -1,16 +1,16 @@
-### Hi there 👋
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=w4123&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</a>
 
-<!--
-**w4123/w4123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 欢迎 Welcome
 
-Here are some ideas to get you started:
+我是溯洄(OIer & CTFer)！经常没事情的时候写代码玩！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+比较有趣的项目有 [Dice](https://github.com/w4123/Dice), [CQXQ](https://github.com/w4123/CQXQ)之类的
+
+欢迎访问我的 [博客](https://blog.kokona.tech)
+
+
+
+
+
