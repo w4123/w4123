@@ -10,7 +10,8 @@
 
 欢迎访问我的 [博客](https://blog.kokona.tech)
 
+Suhui Here! I regularly participate in Olympiads in Informatics (OI) and Capture the Flags (CTF) contests.
 
+Some fun projects I have written include [Dice](https://github.com/w4123/Dice), [CQXQ](https://github.com/w4123/CQXQ)
 
-
-
+Please also visit my [blog](https://blog.kokona.tech)
